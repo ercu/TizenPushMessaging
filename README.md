@@ -1,11 +1,11 @@
 TizenPushMessaging
 ==================
 
-This project is created for sending push messages (aka notification) to Tizen devices.
+This node.js project is created for sending push messages (aka notification) to Tizen devices.
 
 Implementation has been done using following tutorial:
 
-https://developer.tizen.org/dev-guide/2.2.0/org.tizen.native.appprogramming/html/guide/messaging/push_messaging.htm
+https://developer.tizen.org/dev-guide/2.2.0/org.tizen.native.appprogramming/html/guide/messaging/push_server_api.htm
 
 
 Example Usage:
