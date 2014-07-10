@@ -1,7 +1,7 @@
 TizenPushMessaging
 ==================
 
-This project is created to sending push messages (aka notification) to Tizen devices.
+This project is created for sending push messages (aka notification) to Tizen devices.
 
 Implementation has been done using following tutorial:
 
