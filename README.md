@@ -18,3 +18,14 @@ Example Usage:
       console.log(res);
   });
 ```
+
+Response for callback of sendMessage function is same as Tizen Guide. For success message, callback response will be:
+
+```javascript
+ {
+    "regID":"0001ec732aebb16fa3872b98db344bbeeb2d910fe08f69200a184c0249c069a2093fb6caff38527bc212ada3fd8db69ec157",
+    "requestID":"000001",
+    "statusCode":1000,
+    "statusMsg":"Success"
+  }
+```
