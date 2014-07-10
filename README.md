@@ -9,7 +9,7 @@ https://developer.tizen.org/dev-guide/2.2.0/org.tizen.native.appprogramming/html
 
 
 Example Usage:
-
+```javascript
   var app = {appID: "YOUR_APP_ID", appSecret: "SECRET_OF_APP"};
   var device = {regID: "REG_ID_OF_DEVICE"};
   var message = {text:"hello ercu", payLoad: "PAYLOAD_HERE"};
@@ -17,4 +17,4 @@ Example Usage:
   tizenPM.sendMessage(app, device, message, function(res){
       console.log(res);
   });
-
+```
