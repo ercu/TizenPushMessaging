@@ -1,4 +1,4 @@
-tizenPM = require('../main/TizenPushMessaging').TizenPushMessager();
+tizenPM = require('./TizenPushMessaging').TizenPushMessager();
 
 
 
